@@ -1,0 +1,115 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "description": "Bluetooth over-ear headphones with noise-cancellation.",
+        "price": 89.99,
+        "category": "Electronics",
+        "stock": 120,
+        "rating": 4.7,
+        "imageUrl": "https://rukminim2.flixcart.com/image/312/312/l4ei1e80/headphone/b/j/w/bullets-wireless-z2-oneplus-original-imagfaww7ga6nshz.jpeg?q=70&crop=false",
+        "brand": "SoundMax"
+      },
+      {
+        "id": 2,
+        "name": "Smartphone",
+        "description": "Latest 5G smartphone with AMOLED display and dual camera.",
+        "price": 699.99,
+        "category": "Electronics",
+        "stock": 50,
+        "rating": 4.8,
+        "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/cases-covers/back-cover/0/o/p/fh01429-black-mc-matte-finish-flarehub-original-imagye7r2scmjsdw.jpeg?q=70&crop=false",
+        "brand": "Iphone"
+      },
+      {
+        "id": 3,
+        "name": "Running Shoes",
+        "description": "Comfortable and lightweight running shoes with breathable mesh.",
+        "price": 59.99,
+        "category": "Footwear",
+        "stock": 200,
+        "rating": 4.6,
+        "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/d/4/v/7-moscow-12-7-asian-full-white-original-imah38dc8sztmfny.jpeg?q=70",
+        "brand": "RunFast"
+      },
+      {
+        "id": 4,
+        "name": "Smartwatch",
+        "description": "Fitness tracker and smartwatch with heart-rate monitoring.",
+        "price": 129.99,
+        "category": "Wearables",
+        "stock": 80,
+        "rating": 4.5,
+        "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/smartwatch/t/o/n/-original-imagzzm8dvbeguqy.jpeg?q=70&crop=false",
+        "brand": "FitTech"
+      },
+      {
+        "id": 5,
+        "name": "Electric Kettle",
+        "description": "1.7L stainless steel electric kettle with auto shut-off.",
+        "price": 34.99,
+        "category": "Home Appliances",
+        "stock": 150,
+        "rating": 4.4,
+        "imageUrl": "https://rukminim2.flixcart.com/image/612/612/l1dwknk0/electric-kettle/1/l/l/-original-imagcyntuc6zchxu.jpeg?q=70",
+        "brand": "HomeEase"
+      },
+      {
+        "id": 6,
+        "name": "Gaming Laptop",
+        "description": "High-performance laptop with NVIDIA GTX graphics card.",
+        "price": 1199.99,
+        "category": "Computers",
+        "stock": 30,
+        "rating": 4.9,
+        "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/f/v/o/p15-23-hf76b16512e-w-ind-gaming-laptop-colorful-original-imagzn8x2fbmcdk6.jpeg?q=70",
+        "brand": "GamePro"
+      },
+      {
+        "id": 7,
+        "name": "Wireless Mouse",
+        "description": "Ergonomic wireless mouse with adjustable DPI.",
+        "price": 19.99,
+        "category": "Accessories",
+        "stock": 300,
+        "rating": 4.3,
+        "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/f/d/0/-original-imagy3t5xtgxgtwe.jpeg?q=70",
+        "brand": "ClickMate"
+      },
+      {
+        "id": 8,
+        "name": "Electric Scooter",
+        "description": "Foldable electric scooter with 25km range and LED display.",
+        "price": 499.99,
+        "category": "Transportation",
+        "stock": 40,
+        "rating": 4.7,
+        "imageUrl": "https://rukminim2.flixcart.com/image/312/312/xif0q/electric-bike-scooter/b/r/q/-original-imah2ay3ef87faet.jpeg?q=70",
+        "brand": "RideSmart"
+      },
+      {
+        "id": 9,
+        "name": "Coffee Maker",
+        "description": "Programmable coffee maker with 12-cup capacity.",
+        "price": 79.99,
+        "category": "Home Appliances",
+        "stock": 100,
+        "rating": 4.5,
+        "imageUrl": "https://rukminim2.flixcart.com/image/612/612/xif0q/coffee-maker/k/j/b/tesora-brewbelle-espresso-machine-coffee-maker-t0011-em-a-tesora-original-imah3gawj8dz73xb.jpeg?q=70",
+        "brand": "BrewMaster"
+      },
+      {
+        "id": 10,
+        "name": "4K Smart TV",
+        "description": "55-inch 4K Ultra HD Smart TV with HDR and built-in streaming.",
+        "price": 649.99,
+        "category": "Electronics",
+        "stock": 60,
+        "rating": 4.8,
+        "imageUrl": "https://rukminim2.flixcart.com/image/312/312/ku2zjww0/television/w/c/z/43path4545bl-43path4545bl-thomson-original-imag7a88xjj5y2dv.jpeg?q=70",
+        "brand": "ViewPlus"
+      }
+    ]
+  }
+  
