@@ -36,7 +36,7 @@ const Payment = ( ) => {
         }
 
         // Create order on backend
-        const result = await axios.post("http://localhost:5000/create_Order", {
+        const result = await axios.post(`${process.env.Backend_Url}/create_Order`, {
             amount: amount,
             currency: "INR",
         });
@@ -63,8 +63,8 @@ const Payment = ( ) => {
                 toast.success(`Signature: ${response.razorpay_signature}`);
             },
             prefill: {
-                name: "Rohit Meshram",
-                email: "rohitjmeshram2003@gmail.com",
+                name: `${process.env.Name}`,
+                email: `${process.env.Email}`,
                 contact: "9999999999",
             },
             theme: {
